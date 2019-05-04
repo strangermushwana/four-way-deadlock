@@ -1,2 +1,2 @@
 # four-way-deadlock
-a simulation of a way way deadlock in SFML
+a simulation of a 4 way deadlock in SFML
