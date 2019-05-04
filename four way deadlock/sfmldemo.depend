@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1556732104 source:/home/Felixtradeiv/Desktop/sfmldemo/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<map>
+	<algorithm>
+	<iomanip>
+	<time.h>
+	<cmath>
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
